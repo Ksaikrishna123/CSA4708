@@ -1,3 +1,5 @@
+ #A weather prediction system estimates the probabilities of three possible conditions as sunny, rainy, and cloudy: 
+#P=[0.6, 0.3, 0.1]. The system needs to measure the uncertainty in its predictions. 
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.stats import entropy
