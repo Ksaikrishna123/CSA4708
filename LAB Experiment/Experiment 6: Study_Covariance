@@ -1,3 +1,4 @@
+#Calculate sample covariance for study hours [2, 4, 6, 8, 10] and marks [35, 45, 60, 75, 85], and draw a scatter plot.
 import numpy as np
 import matplotlib.pyplot as plt
 
