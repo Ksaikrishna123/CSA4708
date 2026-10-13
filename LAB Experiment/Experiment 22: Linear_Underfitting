@@ -1,3 +1,5 @@
+# A deep learning research team uses a machine learning model to classify images based on extracted numerical features. A highly complex polynomial
+#model performs well on training data but poorly on unseen testing data.
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
