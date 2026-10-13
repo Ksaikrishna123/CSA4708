@@ -1,3 +1,7 @@
+# A real estate company develops machine learning models to predict house prices based on house area.
+#A linear regression model and polynomial regression models of degrees 2 and 10 are trained using the same dataset. The company wants to compare how model
+#complexity affects prediction performance. 
+
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.stats import entropy
