@@ -1,3 +1,5 @@
+#A weather forecasting team develops prediction models with different polynomial degrees to estimate temperature based on time-related features. 
+#The team wants to identify a suitable model that balances simplicity and predictive accuracy. 
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
