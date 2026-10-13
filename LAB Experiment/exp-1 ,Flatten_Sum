@@ -1,3 +1,5 @@
+#: Flatten a 3 × 3 grayscale image matrix and calculate the sum of its pixel intensities.
+
 import numpy as np
 
 A = np.array([[10, 20, 30],
