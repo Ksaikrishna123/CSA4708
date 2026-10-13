@@ -1,3 +1,5 @@
+#Update W = [0.7, 0.5, 0.9] using gradient G = [0.2, 0.1, 0.3] and learning rate 0.1.
+
 import numpy as np
 
 W = np.array([0.7, 0.5, 0.9])
