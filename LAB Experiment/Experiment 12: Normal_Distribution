@@ -1,3 +1,5 @@
+ #A factory produces electronic components, and the probability that a component is defective is 0.1. A quality inspector randomly selects 20 components. 
+#The number of defective components follows a binomial distribution. 
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.stats import norm
