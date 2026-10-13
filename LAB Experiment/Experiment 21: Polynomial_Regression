@@ -1,3 +1,6 @@
+#A college develops a machine learning model to predict students’ examination marks based on study hours. The model uses a simple linear relationship, 
+#but the actual marks follow a nonlinear pattern. 
+
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import PolynomialFeatures
