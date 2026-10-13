@@ -1,3 +1,5 @@
+#Calculate the eigenvalues of A = [[4, 2], [2, 4]] and display them in a bar chart.
+
 import numpy as np
 import matplotlib.pyplot as plt
 
